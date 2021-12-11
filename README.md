@@ -3,9 +3,9 @@ I'm a CS & Math student at Purdue University.
 
 I'm interested in: 
 - Operating System
+- Computer Network
 - Computer Vision
-- Data Analytics
-- Backend Development
+- Web Development
 
 <!--
 **zjiao19/zjiao19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
