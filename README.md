@@ -1,5 +1,5 @@
 # Ziteng Jiao
-![](https://komarev.com/ghpvc/?username=zjiao19)    
+![](https://komarev.com/ghpvc/?username=zjiao19&color=yellow)    
 I'm a CS & Math student at Purdue University.    
 
 I'm interested in: 
