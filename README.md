@@ -1,12 +1,11 @@
 # Ziteng Jiao
 ![](https://komarev.com/ghpvc/?username=zjiao19&color=yellow)    
-I'm a CS & Math student at Purdue University.    
+I'm a Master's student studying Computer Science at Yale University.    
 
 I'm interested in: 
 - Operating System
-- Computer Network
-- Computer Vision
 - Web Development
+- Computer Network
 
 <!--
 **zjiao19/zjiao19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
